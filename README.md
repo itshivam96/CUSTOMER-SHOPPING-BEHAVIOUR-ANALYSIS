@@ -1,7 +1,7 @@
 # 🛍️ Customer Shopping Behaviour Analysis
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Customer+Shopping+Behaviour+Analysis" alt="Project Banner"/>
+  <img src="https://cdn.prod.website-files.com/65537d7c611019f9a33490b1/67980784f37b698cc1c2bade_ai-shopping-behavior-analysis.jpg" alt="Project Banner"/>
 </p>
 
 <p align="center">
@@ -100,11 +100,11 @@ Repeat purchase behavior indicates strong retention potential.
 ## 📈 Dashboard Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Dashboard+Preview" width="80%"/>
+  <img src="https://preview.redd.it/my-first-power-bi-dashboard-customer-shopping-behavior-v0-k9ms16zrx27f1.png?width=1566&format=png&auto=webp&s=5d2f281a85e53190e5249a65f40559ff130a2f6d" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.gif?text=Interactive+Dashboard+Demo" width="80%"/>
+  <img src="https://preview.redd.it/my-first-power-bi-dashboard-customer-shopping-behavior-v0-fzxkn2lvx27f1.png?width=1581&format=png&auto=webp&s=b6f241cb01df8bbca6edcd302359795e2bff80de" width="80%"/>
 </p>
 
 ---
@@ -117,38 +117,11 @@ Repeat purchase behavior indicates strong retention potential.
 
 ---
 
-## 📁 Project Structure
-
-
-Customer-Shopping-Behaviour-Analysis/
-│
-├── data/
-│ ├── raw_data.csv
-│ └── cleaned_data.csv
-│
-├── notebooks/
-│ └── analysis.ipynb
-│
-├── dashboards/
-│ └── powerbi_dashboard.pbix
-│
-├── images/
-│ └── dashboard_preview.png
-│
-├── src/
-│ └── data_processing.py
-│
-├── README.md
-└── requirements.txt
-
-
----
-
 ## ⚙️ Installation & Usage
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/customer-shopping-behaviour-analysis.git
+git clone https://github.com/itshivam96/customer-shopping-behaviour-analysis.git
 
 # Navigate to project folder
 cd customer-shopping-behaviour-analysis
@@ -169,7 +142,7 @@ Add real-time data pipeline
 Enhance dashboard interactivity
 Deploy as a web-based analytics app
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itshivam96&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshivam96&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshivam96&layout=compact&theme=tokyonight"/> </p>
 🤝 Contribution Guidelines
 
 Contributions are welcome!
@@ -184,5 +157,5 @@ Submit a Pull Request
 This project is licensed under the MIT License.
 
 📬 Contact
-<p align="center"> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/> </a> <a href="https://your-portfolio.com"> <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=web"/> </a> </p>
+<p align="center"> <a href="https://linkedin.com/in/itshivam96"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/> </a> <a href="https://your-portfolio.com"> <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=web"/> </a> </p>
 <p align="center"> ⭐ If you found this project useful, please consider giving it a star! </p> ```
